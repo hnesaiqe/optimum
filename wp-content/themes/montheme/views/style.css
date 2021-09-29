@@ -1,0 +1,16 @@
+/*
+Theme Name: OPTIMUM
+Author: HNE Saiqe
+Author URI: https://dysign.fr
+Description: Mon premier thème !
+Version: 1.0
+*/
+
+
+.menu-item {
+        list-style-type: none;
+}
+
+.menu-item > a {
+        color: black;
+}
